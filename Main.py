@@ -1,4 +1,4 @@
-# ==================== STANDARD IMPORTS ====================
+# ==================== STANDARD IMPORTS PACKS ====================
 import sys
 import asyncio
 import httpx
